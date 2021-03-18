@@ -10,7 +10,7 @@ def func(t):
     
 N0 = 100.0
 t0 = 0.001
-h = 0.4
+h = 0.01
 tspace = [t0, ]
 Nspace = [N0, ]
 print(t0, N0)
